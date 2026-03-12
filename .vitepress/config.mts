@@ -62,6 +62,7 @@ function buildSidebar(baseDir: string, urlBase: string) {
 const rootDir = path.resolve(__dirname, '..')
 
 export default defineConfig({
+  base: '/file/',
   title: '八股文笔记',
   description: '算法 · 后端 · DevOps 知识体系',
   lang: 'zh-CN',
