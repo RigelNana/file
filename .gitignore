@@ -1,3 +1,4 @@
+.obsidian/**
 .obsidian/
 .vitepress/cache
 .vitepress/dist
