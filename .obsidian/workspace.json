@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "2d43475c48d26495",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d5494ee15613aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79198a7cd1149fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/18-最小生成树/01-Kruskal算法/Kruskal算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kruskal算法"
+            }
+          },
+          {
+            "id": "3a43871411a6fb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/01-Linux基础/02-文件系统与存储/文件系统与存储.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文件系统与存储"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e68690c12a422a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a81082abacf9f3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5cfbb39bc344b6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f8e03ab07fb4307f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e532bc58f364eecd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc00a4d289221b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "dec533177fbaf4aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ba1efbf74060721",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevOps/01-Linux基础/02-文件系统与存储/文件系统与存储.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "文件系统与存储 的反向链接列表"
+            }
+          },
+          {
+            "id": "a47cd0ad9e9ae678",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevOps/01-Linux基础/02-文件系统与存储/文件系统与存储.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "文件系统与存储 的出链列表"
+            }
+          },
+          {
+            "id": "525367fb70dbeff2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f320d7f15e6ae4ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "db20f6789728d696",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevOps/01-Linux基础/02-文件系统与存储/文件系统与存储.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "文件系统与存储 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3a43871411a6fb94",
+  "lastOpenFiles": [
+    "Algo/29-高级算法与综合/03-离线算法/离线算法.md",
+    "Algo/29-高级算法与综合/03-离线算法",
+    "Algo/29-高级算法与综合/02-莫队算法/莫队算法.md",
+    "Algo/29-高级算法与综合/02-莫队算法",
+    "Algo/29-高级算法与综合/01-根号分解/根号分解.md",
+    "Algo/29-高级算法与综合/01-根号分解",
+    "Algo/28-树状数组与线段树/05-总结/总结.md",
+    "Algo/28-树状数组与线段树/05-总结",
+    "Algo/28-树状数组与线段树/04-动态开点线段树/动态开点线段树.md",
+    "Algo/28-树状数组与线段树/04-动态开点线段树",
+    "Algo/28-树状数组与线段树/03-线段树/线段树.md",
+    "Algo/28-树状数组与线段树/03-线段树",
+    "Algo/28-树状数组与线段树/02-BIT经典应用/BIT经典应用.md",
+    "Algo/28-树状数组与线段树/02-BIT经典应用",
+    "Algo/28-树状数组与线段树/01-树状数组BIT/树状数组BIT.md",
+    "Algo/28-树状数组与线段树/01-树状数组BIT",
+    "Algo/27-字符串算法/05-字符串算法总结/字符串算法总结.md",
+    "Algo/27-字符串算法/05-字符串算法总结",
+    "Algo/27-字符串算法/04-字符串哈希/字符串哈希.md",
+    "Algo/27-字符串算法/04-字符串哈希",
+    "Algo/27-字符串算法/03-Manacher算法/Manacher算法.md",
+    "Algo/27-字符串算法/02-Z函数/Z函数.md",
+    "Algo/27-字符串算法/01-KMP算法/KMP算法.md",
+    "Algo/26-数学/04-常见数学技巧/常见数学技巧.md",
+    "Algo/26-数学/03-组合数学/组合数学.md",
+    "Algo/26-数学/02-GCD与LCM与快速幂/GCD与LCM与快速幂.md",
+    "Algo/26-数学/01-质数与质因数分解/质数与质因数分解.md",
+    "Algo/25-位运算/03-子集枚举/子集枚举.md",
+    "Algo/25-位运算/02-异或性质与经典题/异或性质与经典题.md",
+    "Algo/25-位运算/01-位运算基础/位运算基础.md",
+    "DevOps/01-Linux基础/01-系统基础与启动/系统基础与启动.md",
+    "Algo/24-进阶DP/04-DP优化技巧/DP优化技巧.md",
+    "Algo/24-进阶DP/03-树形DP进阶/树形DP进阶.md",
+    "Algo/24-进阶DP/02-数位DP/数位DP.md",
+    "Algo/24-进阶DP/01-状态压缩DP/状态压缩DP.md",
+    "Algo/23-字典树/02-字典树进阶/字典树进阶.md"
+  ]
+}
