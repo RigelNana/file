@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: '八股文笔记'
-  text: '算法 · 后端 · DevOps'
+  text: '算法 · 后端 · DevOps · SRE'
   tagline: 系统化的技术面试知识体系
   actions:
     - theme: brand
@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: DevOps
       link: /DevOps/00-目录总览
+    - theme: alt
+      text: SRE
+      link: /SRE/00-目录总览
 
 features:
   - title: 🧮 算法与数据结构

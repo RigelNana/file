@@ -64,7 +64,7 @@ const rootDir = path.resolve(__dirname, '..')
 export default defineConfig({
   base: '/file/',
   title: '八股文笔记',
-  description: '算法 · 后端 · DevOps 知识体系',
+  description: '算法 · 后端 · DevOps · SRE 知识体系',
   lang: 'zh-CN',
 
   themeConfig: {
@@ -73,6 +73,7 @@ export default defineConfig({
       { text: '算法', link: '/Algo/00-目录总览' },
       { text: '后端', link: '/Backend/00-目录总览' },
       { text: 'DevOps', link: '/DevOps/00-目录总览' },
+      { text: 'SRE', link: '/SRE/00-目录总览' },
     ],
 
     sidebar: {
@@ -95,6 +96,13 @@ export default defineConfig({
           text: 'DevOps',
           link: '/DevOps/00-目录总览',
           items: buildSidebar(path.join(rootDir, 'DevOps'), '/DevOps/'),
+        },
+      ],
+      '/SRE/': [
+        {
+          text: 'SRE',
+          link: '/SRE/00-目录总览',
+          items: buildSidebar(path.join(rootDir, 'SRE'), '/SRE/'),
         },
       ],
     },
